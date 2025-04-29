@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Идея
 
-**Complete**
-- [x] Сделать тред
 
 
 ## Взял в реализацию
@@ -16,9 +14,14 @@ kanban-plugin: board
 
 ## Выполнил
 
+**Complete**
 
 
+***
 
+## Archive
+
+- [x] Сделать тред
 
 %% kanban:settings
 ```

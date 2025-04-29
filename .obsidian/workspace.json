@@ -11,20 +11,14 @@
             "id": "e750e10a24a2a9ad",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Team Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Smkzz dao introductions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Team Kanban"
+              "icon": "lucide-file",
+              "title": "Smkzz dao introductions"
             }
           }
         ]
@@ -195,12 +189,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e750e10a24a2a9ad",
+  "active": "1a8b08f8373f5cab",
   "lastOpenFiles": [
+    "Team Kanban.md",
     "Members/dmitriiwhale/dmitriiwhale.md",
     "Smkzz dao introductions.md",
     "2025-04-29.md",
-    "Team Kanban.md",
     "Members/dmitriiwhale",
     "Members/dmitriiwhale.md",
     "Members",
