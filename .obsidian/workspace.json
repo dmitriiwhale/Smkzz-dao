@@ -4,21 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9bb7db388cb1c4",
+        "id": "acfbbef53e38ed16",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc55a86709a023b",
+            "id": "e750e10a24a2a9ad",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": "Smkzz dao introductions.md",
-                "bFile": "Smkzz dao introductions.md",
-                "aRef": ""
+                "file": "Team Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Smkzz dao introductions"
+              "icon": "lucide-trello",
+              "title": "Team Kanban"
             }
           }
         ]
@@ -189,11 +195,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5fc55a86709a023b",
+  "active": "64fc48addd9b918f",
   "lastOpenFiles": [
     "Smkzz dao introductions.md",
-    "Members/dmitriiwhale/Untitled.md",
     "Team Kanban.md",
+    "Members/dmitriiwhale/Untitled.md",
     "Members/dmitriiwhale",
     "Members/dmitriiwhale.md",
     "Members",
