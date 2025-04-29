@@ -11,14 +11,14 @@
             "id": "5fc55a86709a023b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Smkzz dao introductions.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Smkzz dao introductions.md",
+                "bFile": "Smkzz dao introductions.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Smkzz dao introductions"
+              "icon": "diff",
+              "title": "Diff: Smkzz dao introductions"
             }
           }
         ]
@@ -189,10 +189,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "64fc48addd9b918f",
+  "active": "5fc55a86709a023b",
   "lastOpenFiles": [
-    "Members/dmitriiwhale/Untitled.md",
     "Smkzz dao introductions.md",
+    "Members/dmitriiwhale/Untitled.md",
     "Team Kanban.md",
     "Members/dmitriiwhale",
     "Members/dmitriiwhale.md",
